@@ -1,6 +1,6 @@
 # 📊 Tugas Besar Pergudangan Data (SD25-31007)
 
-
+!(Logo Tugas Besar Data Warehouse Gasal 2025)[https://github.com/sains-data/Data-Warehouse-2025-Gasal/blob/main/Logo-DW-Gasal-2025.gif]
 
 **Institut Teknologi Sumatera – Program Studi Sains Data**  
 **Mata Kuliah:** Pergudangan Data (3 SKS)  
